@@ -9,5 +9,5 @@ title: About Long Haul
 ``` This is an image 
 ![Image](assets/img/touring.jpg)
 
-```This is a link
-Check out my lab's [website](https://swaablab.ucdavis.edu)
+
+Check out my graduate lab's [website](https://swaablab.ucdavis.edu)
